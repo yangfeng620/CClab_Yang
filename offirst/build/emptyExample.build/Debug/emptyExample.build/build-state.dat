@@ -1,0 +1,47 @@
+TemptyExample
+v7
+r1
+
+N/Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/../../../libs/glut/lib/osx/GLUT.framework
+c0000000050A44BF000000000000000CC
+t1352944624
+s204
+
+N/Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/bin//emptyExampleDebug.app
+t2
+s0
+
+N/Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/bin//emptyExampleDebug.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/bin//emptyExampleDebug.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
+t2
+s0
+
+N/Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NopenFrameworks-Info.plist
+c0000000050A44C1A0000000000000277
+t1352944666
+s631
+
+CPBXCp bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+r0
+
+CPhaseScriptExecution "Run Script" /Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+r0
+
+CProcessInfoPlistFile /Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/bin//emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+r0
+
+CTouch /Users/Amanda/Downloads/of_v0073_osx_release/apps/myApps/first/bin//emptyExampleDebug.app
+r0
+
